@@ -1,4 +1,4 @@
-# github_graphql_client
+# desktop_app
 
 A new Flutter project.
 

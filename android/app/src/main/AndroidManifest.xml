@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.github_graphql_client">
+    package="com.example.desktop_app">
    <application
-        android:label="github_graphql_client"
+        android:label="desktop_app"
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"

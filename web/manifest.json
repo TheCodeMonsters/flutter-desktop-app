@@ -1,6 +1,6 @@
 {
-    "name": "github_graphql_client",
-    "short_name": "github_graphql_client",
+    "name": "desktop_app",
+    "short_name": "desktop_app",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

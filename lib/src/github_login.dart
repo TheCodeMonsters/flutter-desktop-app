@@ -40,7 +40,11 @@ class _GithubLoginState extends State<GithubLoginWidget> {
 
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Github Login'),
+        title: Center(
+          child: const Text(
+            'Github Login',
+          ),
+        ),
       ),
       body: Center(
         child: ElevatedButton(
